@@ -10,8 +10,8 @@ role: Behavioural Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
-  url: 
+- name: I am a researcher with 8+ years of experience leading human-centered research. Passionate about using research methods and advanced data analysis techniques to solve complex problems and tell a story
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a researcher with 8+ years of experience leading human-centered research. Passionate about using research methods and advanced data analytic techniques to solve complex problems and tell a story.
@@ -46,13 +46,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/heatherherriot
+  link: https://twitter.com/heather_herriot
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.ca/citations?user=LSaojB8AAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/heatherherriot
+  link: https://www.linkedin.com/in/heatherherriot
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,4 +70,4 @@ highlight_name: false
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads\demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
